@@ -18,3 +18,10 @@ this is an front end project by using reacts.
     1. whole numbers
     2. natural numbers
     3. integers
+
+![taj mahal](https://lp-cms-production.imgix.net/2020-11/GettyRF_494057771.jpg)
+
+
+
+
+
