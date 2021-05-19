@@ -20,6 +20,7 @@ this is an front end project by using reacts.
     3. integers
 
 ![taj mahal](https://lp-cms-production.imgix.net/2020-11/GettyRF_494057771.jpg)
+![gun](https://images2.alphacoders.com/576/thumb-350-576778.jpg)
 
 
 
