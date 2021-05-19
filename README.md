@@ -12,3 +12,9 @@ this is an front end project by using reacts.
   * carrot
   * potato
   * mango
+## ordered list
+ 1. Alphabets
+ 2. digits
+    1. whole numbers
+    2. natural numbers
+    3. integers
