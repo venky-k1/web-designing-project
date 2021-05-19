@@ -6,3 +6,6 @@ this is an front end project by using reacts.
 *font style in italic*
 **font style in bold**
 ***used for both italic and bold***
+# unordered list
+* fruits as unordered list name
+* vegetables
